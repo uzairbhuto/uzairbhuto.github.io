@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.uzairtraders.beautystore",
+    "sha256_cert_fingerprints": ["AA:22:21:80:A1:65:0D:5F:B2:B7:A1:BB:6D:82:55:48:07:D3:82:42:6B:FD:69:13:5A:30:E5:EC:37:41:13:1A"]
+  }
+}]
