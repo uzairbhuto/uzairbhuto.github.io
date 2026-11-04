@@ -1,8 +1,18 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.uzairtraders.beautystore",
-    "sha256_cert_fingerprints": ["AA:22:21:80:A1:65:0D:5F:B2:B7:A1:BB:6D:82:55:48:07:D3:82:42:6B:FD:69:13:5A:30:E5:EC:37:41:13:1A"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.uzairtraders.beautystore",
+      "sha256_cert_fingerprints": ["AA:22:21:80:A1:65:0D:5F:B2:B7:A1:BB:6D:82:55:48:07:D3:82:42:6B:FD:69:13:5A:30:E5:EC:37:41:13:1A"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.uzairtraders.shop",
+      "sha256_cert_fingerprints": ["E5:8F:2C:CF:5C:93:75:C5:14:8D:1E:37:10:4C:14:55:DA:28:24:E4:51:8A:03:43:5D:CD:C5:87:75:55:66:D9"]
+    }
   }
-}]
+]
